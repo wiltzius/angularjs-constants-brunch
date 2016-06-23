@@ -1,27 +1,12 @@
 {
-  "name": "angularjs-templates-brunch",
+  "name": "angularjs-constants-brunch",
   "version": "1.0.0",
   "description": "Places templates in an AngularJS module via a Brunch.io plugin",
   "author": {
     "name": "Doug Moscrop",
     "email": "doug.moscrop@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Kenneth Kan",
-      "email": "kenhkan@gmail.com"
-    },
-    {
-      "name": "Jonathan Rico"
-    },
-    {
-      "name": "Daniel López"
-    },
-    {
-      "name": "Egor Khmelev",
-      "email": "hmelyoff@gmail.com"
-    }
-  ],
+  "contributors": [],
   "homepage": "https://github.com/dmoscrop/angularjs-templates-brunch",
   "repository": {
     "type": "git",
