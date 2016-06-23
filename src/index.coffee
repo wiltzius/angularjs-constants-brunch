@@ -29,6 +29,6 @@ module.exports = class AngularConstantsCompiler
         module = angular.module('#{@module}', []);
     }
 
-    module.constant(#{constant_name}, #{data});
+    module.constant('#{constant_name}', #{data});
 })();
 """
